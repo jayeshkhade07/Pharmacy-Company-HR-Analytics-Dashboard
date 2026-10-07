@@ -1,12 +1,12 @@
 # 💊PHARMACY COMPANY HR ANALYTICS DASHBOARD
-## Project Overview
+## 📌Project Overview
 This project is an HR Analytics Dashboard created for a pharmacy company using Power BI.
 
 The dashboard provides an overview of employee information, salary, attendance, performance, promotion status, resignation, and target achievement.
 
 It helps HR teams understand employee data and make better data-driven decisions.
 
-## Project Objectives
+## 🎯Project Objectives
 
 - Analyze employee data using Power BI.
 - Monitor employee salary and attendance.
@@ -15,7 +15,7 @@ It helps HR teams understand employee data and make better data-driven decisions
 - Compare employees across departments, locations, gender, and education.
 - Provide useful insights to support HR decision-making.
  
- ## Project Synopsis
+ ## 📋Project Synopsis
 
 The Pharmacy Company HR Analytics Dashboard is designed to analyze and visualize employee-related data in an easy-to-understand format.
 
@@ -24,7 +24,8 @@ The dashboard includes key HR metrics such as total employees, average monthly s
 It also provides interactive analysis based on department, location, gender, performance rating, resignation status, and joining year.
 
 The dashboard helps HR teams identify workforce trends, monitor employee performance, and understand important HR patterns.
-## Dashboard Highlights
+
+## 📊Dashboard Highlights
 
 - Total Employees
 - Average Monthly Salary
@@ -40,7 +41,7 @@ The dashboard helps HR teams identify workforce trends, monitor employee perform
 - Employees by Performance Rating
 - Employees by Gender
 
-## Key Insights
+## 💡Key Insights
 
 - The dashboard provides a clear overview of the company's workforce.
 - Department-wise analysis helps identify employee distribution across departments.
@@ -51,7 +52,7 @@ The dashboard helps HR teams identify workforce trends, monitor employee perform
 - Attendance and target achievement metrics help monitor employee productivity.
 - Gender analysis provides additional workforce insights.
 
-## Tools Used
+## 🛠️Tools Used
 
 - Microsoft Power BI — Dashboard creation and data visualization
 - Power Query — Data preparation and transformation
@@ -59,11 +60,11 @@ The dashboard helps HR teams identify workforce trends, monitor employee perform
 - Microsoft Excel — Dataset handling and basic data analysis
 - GitHub — Project hosting and documentation
 
-## Project Structure
+## 📁Project Structure
 - Dashboard Screenshot — Final Power BI dashboard image
 - Pharmacy Company HR Analytics Dashboard.pbix — Power BI dashboard file
 - README.md — Project documentation, objectives, synopsis, and key insights
 
-## Dashboard Preview
+## 🖼️Dashboard Preview
 
 ![Pharmacy Company HR Analytics Dashboard](https://github.com/jayeshkhade07/Pharmacy-Company-HR-Analytics-Dashboard/blob/main/Dashboard%20Screenshoot.png?raw=true)
